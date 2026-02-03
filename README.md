@@ -1,6 +1,6 @@
-# Ei, Kaiky aqui! ✨
+# Prazer, Kaiky aqui! ✨
 
-💻 **Frontend Developer** | 🎨 **UI Lover**
+💻 **Frontend Developer** | 🎨 **Code Lover**
 
 Criando interfaces modernas, responsivas e focadas na melhor experiência do usuário.
 
