@@ -87,7 +87,7 @@ Atuação no desenvolvimento de aplicações fullstack voltadas para:
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img 
     height="180em" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=KaikyVictorio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
@@ -97,7 +97,7 @@ Atuação no desenvolvimento de aplicações fullstack voltadas para:
     height="180em" 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KaikyVictorio&layout=compact&langs_count=8&theme=tokyonight" 
   />
-</p>
+</div>
 ---
 
 ## 🌐 Conecte-se comigo
